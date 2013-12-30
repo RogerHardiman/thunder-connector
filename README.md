@@ -1,4 +1,4 @@
-thunder-connector
+Thunder Connector
 =================
 
-Connect to the Thunder USB Missile Launcher.
+A node module to connect to the USB [Thunder Missile Launcher](http://www.dreamcheeky.com/thunder-missile-launcher). 

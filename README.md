@@ -7,7 +7,7 @@ A node module to connect to the USB [Thunder Missile Launcher](http://www.dreamc
 
 ### libusb
 
-At first have to install [libusb](http://www.libusb.org/) in order to use this module. 
+At first you have to install [libusb](http://www.libusb.org/) in order to use this module. 
 
 
 ## Author
